@@ -10,12 +10,4 @@ restartPolicyMaxRetries = 3
 
 [env]
 PYTHON_VERSION = "3.11"
-QDRANT_URL=https://fd96d4b0-9650-44d3-a940-2157b74d5075.us-east4-0.gcp.cloud.qdrant.io
-QDRANT_API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.xRDewyOhe5JzJAQVzvcA2xUsBbs3ZC9Vw-_qklioNzM
-
-DATABASE_URL=postgresql://neondb_owner:npg_enRxOht5mkq7@ep-broad-flower-adqq11zn.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
-
-GROQ_API_KEY=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
-ENVIRONMENT=development
-CORS_ORIGINS=https://ai-native-book-uzvs.vercel.app/
 
